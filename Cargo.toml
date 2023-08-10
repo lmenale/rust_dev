@@ -1,0 +1,26 @@
+[workspace]
+
+members = [
+    "01_intro/intro_1",
+    "01_intro/intro_2",
+    "02_basics/basics_1",
+    "02_basics/basics_2",
+    "02_basics/basics_3",
+    "03_tools/tools_1",
+    "03_tools/tools_2",
+    "03_tools/tools_3",
+    "04_error/error_1",
+    "04_error/error_2",
+    "05_collections/collections_1",
+    "05_collections/collections_2",
+    "05_collections/collections_3",
+    "06_OnB/onb_1",
+    "06_OnB/onb_2",
+    "06_OnB/onb_3",
+    "07_struct_enum/struct_enum_1",
+    "07_struct_enum/struct_enum_2",
+    "07_struct_enum/struct_enum_3",
+    "08_test/test_1",
+    "08_test/test_2",
+    "08_test/test_3",
+]
