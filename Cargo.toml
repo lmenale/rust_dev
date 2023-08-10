@@ -11,7 +11,6 @@ members = [
     "03_tools/tools_3",
     "04_error/error_1",
     "04_error/error_2",
-    "04_error/error_3",
     "05_collections/collections_1",
     "05_collections/collections_2",
     "05_collections/collections_3",

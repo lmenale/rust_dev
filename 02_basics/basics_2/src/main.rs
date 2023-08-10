@@ -3,9 +3,9 @@
 // This example covers the key concepts of control flow, including if statements, loops, and match statements.
 // In this example:
 // 
-// Use an if statement to make a decision based on the value of the age variable.
-// Demonstrate while and for loops to repeatedly execute code while certain conditions hold.
-// Use a match statement to efficiently handle different values of the fruit variable.
+// - Use an if statement to make a decision based on the value of the age variable.
+// - Demonstrate while and for loops to repeatedly execute code while certain conditions hold.
+// - Use a match statement to efficiently handle different values of the fruit variable.
 // 
 // Please note that this example is simplified for demonstration purposes and doesn't cover all possible variations and
 // use cases of control flow statements. Real-world applications may involve more complexity and features.

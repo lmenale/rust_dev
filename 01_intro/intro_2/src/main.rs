@@ -3,10 +3,10 @@
 // This example demonstrates a basic Rust application that simulates a simple bank account management system.
 // We'll use Rust's memory safety, strong type system, and ownership model to showcase its advantages.
 //
-// Define a BankAccount struct with an owner's name and balance.
-// Use Rust's strong type system to ensure that the owner's name is a String and the balance is an f64.
-// Demonstrate memory safety by using Rust's ownership model and references to manipulate the BankAccount instance.
-// Prevent invalid operations like negative deposits or excessive withdrawals using Rust's type system and strong ownership checks.
+// - Define a BankAccount struct with an owner's name and balance.
+// - Use Rust's strong type system to ensure that the owner's name is a String and the balance is an f64.
+// - Demonstrate memory safety by using Rust's ownership model and references to manipulate the BankAccount instance.
+// - Prevent invalid operations like negative deposits or excessive withdrawals using Rust's type system and strong ownership checks.
 // 
 // This example highlights how Rust's memory safety, strong type system, and ownership model contribute to developing a secure and
 // reliable application.

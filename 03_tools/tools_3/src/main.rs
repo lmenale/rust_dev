@@ -3,9 +3,9 @@
 // This example demonstrate code formatting with Rustfmt and linting with Clippy involves using these tools on your codebase.
 // In this example:
 //
-// Create a Rust code file main.rs with some code snippets that may have varying styles and potential issues.
-// Use the rustfmt command to format the code according to Rustfmt's defined style, ensuring consistent formatting.
-// Use the cargo clippy command to run Clippy on the code, identifying potential problems or non-idiomatic patterns.
+// - Create a Rust code file main.rs with some code snippets that may have varying styles and potential issues.
+// - Use the rustfmt command to format the code according to Rustfmt's defined style, ensuring consistent formatting.
+// - Use the cargo clippy command to run Clippy on the code, identifying potential problems or non-idiomatic patterns.
 
 // Please note that this example is simplified for demonstration purposes and doesn't cover all aspects of code formatting
 // and linting. Real-world applications may involve more complex code and detailed linting results.

@@ -3,17 +3,17 @@
 // This example demonstrates a basic Rust application that showcases concurrency using threads and a channel for communication.
 // It incorporates the principles of performance, memory safety, and concurrency emphasized in Rust:
 // 
-// 1. Concurrency:
+// - Concurrency:
 // The application spawns multiple threads to perform tasks concurrently, simulating a time-consuming operation.
 //
-// 2. Memory Safety:
+// - Memory Safety:
 // Rust's ownership and borrowing rules are implicitly demonstrated as threads share ownership of the channel
 // sender (tx_clone) and safely communicate results.
 // 
-// 3. Performance:
+// - Performance:
 // The application uses multiple threads to execute tasks simultaneously, enhancing overall performance.
 // 
-// 4. Preventing Segfaults:
+// - Preventing Segfaults:
 // Rust's ownership and borrowing system prevents data races and ensures thread safety.
 // 
 // Please note that this example is simplified for demonstration purposes and does not cover all aspects of

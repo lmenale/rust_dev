@@ -3,9 +3,9 @@
 // This example demonstrates variable declaration, data types, and immutability.
 // In this example:
 // 
-// Declare and initialize variables of various data types, including integers, floats, Booleans, characters, and strings.
-// Define a constant MAX_SCORE and use it for basic type conversions.
-// Demonstrate the concept of immutability by attempting to reassign an immutable variable, showcasing Rust's safety features.
+// - Declare and initialize variables of various data types, including integers, floats, Booleans, characters, and strings.
+// - Define a constant MAX_SCORE and use it for basic type conversions.
+// - Demonstrate the concept of immutability by attempting to reassign an immutable variable, showcasing Rust's safety features.
 // 
 // Please note that this is a simplified example for illustrative purposes, and real-world applications may involve
 // more complexity and features.
